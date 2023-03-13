@@ -9,4 +9,4 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-print("Hello world !")
+print("Hello world ! 2éme version !")
